@@ -1,10 +1,8 @@
 <script>
 import Bloggin from './views/Bloggin.vue'
-import Login from './views/Login.vue'
 
 const routes = {
   '/': Bloggin,
-  '/login': Login
 }
 
 export default {
@@ -27,7 +25,5 @@ export default {
 </script>
 
 <template>
-  <a href="#/">Bloggin</a> |
-  <a href="#/login">Login</a> |
   <component :is="currentView" />
 </template>

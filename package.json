@@ -1,5 +1,6 @@
 {
   "name": "bloggin",
+  "author": "Raquel Cadete <ubunturaquel@gmail.com>",
   "private": true,
   "version": "0.0.0",
   "type": "module",
