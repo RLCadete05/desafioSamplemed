@@ -55,7 +55,7 @@ export default {
             focus:ring-indigo-500
           "
         >
-          Login
+          Login com o Google
         </button>
       </span>
     </div>
